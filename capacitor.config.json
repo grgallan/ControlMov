@@ -1,0 +1,12 @@
+{
+  "appId": "com.controlmov.app",
+  "appName": "ControlMov",
+  "webDir": "www",
+  "server": {
+    "url": "https://grgallan.github.io/ControlMov/",
+    "cleartext": false
+  },
+  "android": {
+    "backgroundColor": "#151A1F"
+  }
+}
